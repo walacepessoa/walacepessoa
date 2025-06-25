@@ -19,7 +19,7 @@ Profissional com mais de 20 anos de experiência em desenvolvimento, manutençã
             src="https://custom-icon-badges.demolab.com/github/followers/walacepessoa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href=https://www.linkedin.com/in/walace-pess%C3%B4a-55b07135">
+    <a href=https://www.linkedin.com/in/walace-pess%C3%B4a-55b07135/">
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
