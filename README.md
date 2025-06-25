@@ -160,16 +160,3 @@ Profissional com mais de 20 anos de experiência em desenvolvimento, manutençã
   />
 
 </p>
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [🧔🏻‍♂️ Walace Pessôa](#️-walace-pessôa)
-    - [🤖 Linguagens e Tecnologias](#-linguagens-e-tecnologias)
-    - [📊 Estatísticas](#-estatísticas)
-
-<!-- /code_chunk_output -->
-
